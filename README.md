@@ -2,7 +2,7 @@
 
 **Project Manager and Report Author: Kahee Chan**  
 **Project Duration: 6/16/2024 - 6/23/2024**  
-**Contact Information: chankahee06731@gmail.com**
+**Contact Information: chankahee06731@gmail.com**   
 **Complete Project Report and Documentation Link: [Phase 1 Report and Documentation](https://www.notion.so/Phase-1-Stock-Market-Data-Pipeline-and-Automation-15eb0b4c7e45476ba35dd22d0e899adb?pvs=4)**
 
 ---
