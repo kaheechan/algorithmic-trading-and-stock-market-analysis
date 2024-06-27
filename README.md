@@ -80,6 +80,7 @@ https://www.notion.so/Phase-1-Stock-Market-Data-Pipeline-and-Automation-15eb0b4c
 **Clone the repository**:
    ```sh
    git clone https://github.com/kaheechan/algorithmic-trading-and-stock-market-analysis.git
+  ```
 
 ---
 
