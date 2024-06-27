@@ -81,3 +81,47 @@ https://www.notion.so/Phase-1-Stock-Market-Data-Pipeline-and-Automation-15eb0b4c
 **Clone the repository**:
    ```sh
    git clone https://github.com/kaheechan/algorithmic-trading-and-stock-market-analysis.git
+
+---
+
+## Challenges and Solutions
+
+Problem: Local Machine Dependency
+Solution: Use AWS services (Lambda, RDS, EventBridge) to automate the ETL process without relying on a local machine.
+
+Problem: "Unable to import module" Error
+Solution: Use Docker to package the application and its dependencies.
+
+Problem: Large File Size
+Solution: Use Docker to build and deploy the application, avoiding AWS Lambda size limitations.
+
+---
+
+## Results
+
+SPY Market Data successfully updated based on the crom scheduler, there are 4 main benefits for completing this phase:
+
+Easy Data Accessibility: Automates data extraction using yfinance API, including dividends data.
+Efficient Data Management: Reduces the time and effort for data processing, eliminates the need for local storage.
+Automatic Email Confirmation: Sends confirmation emails for successful updates.
+Reliability: Utilizes AWS infrastructure for a robust and scalable solution.
+
+---
+
+## Extension, Applications, and Future Work
+
+Future Phases
+Phase 2: Stock Market Data Analysis and Automation
+
+Data Analysis for SPY Market Data using technical analysis and automated recommendations.
+Phase 3: Individual Stock Data Analysis and Automation
+
+Extending analysis to individual stocks within the SPY Market.
+Long-term Goals
+Implement AI, Data Science, Econometrics, and other advanced techniques to enhance the project.
+
+---
+
+## License
+
+
