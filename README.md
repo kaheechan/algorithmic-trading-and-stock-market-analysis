@@ -1,4 +1,4 @@
-# Stock Market Data Pipeline and Automation
+# Phase 1: Stock Market Data Pipeline and Automation
 
 **Project Manager and Report Author: Kahee Chan**  
 **Project Duration: 6/16/2024 - 6/23/2024**  
@@ -22,7 +22,6 @@
 - [Extension, Applications, and Future Work](#extension-applications-and-future-work)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
